@@ -7,8 +7,9 @@
 
 - Follow the instructions on the [main README file](https://github.com/GoogleCloudPlatform/dialogflow-integrations#readme) for more information.
 - Replace __PROJECT_ID__ with your Google Cloud project ID.
-- Replace __AGENT_ID__ with your Dialogflow CX agent ID.
 - Replace __LOCATION__ with your agent's location code, e.g. "us-central-1."
+- Replace __AGENT_ID__ with your Dialogflow CX agent ID.
+- Replace __LANGUAGE_CODE__ with your agent's language, e.g. "us-en."
   
 ```
 PROJECT_ID = ''
