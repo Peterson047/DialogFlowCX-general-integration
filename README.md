@@ -10,7 +10,8 @@
 - Replace __AGENT_ID__ with your Dialogflow CX agent ID.
 - Replace __LOCATION__ with your agent's location code, e.g. "us-central-1."
   
-```PROJECT_ID = ''
+```
+PROJECT_ID = ''
 LOCATION = ''
 AGENT_ID = ''
 LANGUAGE_CODE = ''
@@ -43,7 +44,7 @@ gcloud beta run deploy --image gcr.io/PROJECT_ID/dialogflow-integration --servic
  - Copy the URL given to you, and use it according to the README file in the
  given integration's folder.
 
-You can optionally deploy the container created on Google Cloud via the web interface. Or you can use Cloud Functions to deploy without having to create a container.
+``You can optionally deploy the container created on Google Cloud via the web interface. Or you can use Cloud Functions to deploy without having to create a container.``
 
 More information can be found in Cloud Run
 [documentation](https://cloud.google.com/run/docs/deploying).
