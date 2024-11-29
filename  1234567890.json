@@ -1,0 +1,14 @@
+{
+  "dialogflowResponse": [
+    {
+      "channel": "",
+      "text": {
+        "text": [
+          "Posso ajudar com mais alguma coisa?"
+        ],
+        "allowPlaybackInterruption": false
+      },
+      "message": "text"
+    }
+  ]
+}

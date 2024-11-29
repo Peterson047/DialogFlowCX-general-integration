@@ -1,0 +1,132 @@
+[
+  {
+    "sessionId": "452",
+    "queryText": "olá",
+    "responseText": "Oi! Gostaria de obter informações no contexto LOCAL ou DIGITAL?",
+    "timestamp": "2024-11-29T19:09:49.063Z"
+  },
+  {
+    "sessionId": " 452",
+    "queryText": [
+      "olá",
+      "olá",
+      "olá",
+      "olá"
+    ],
+    "responseText": [
+      "Oi! Gostaria de obter informações no contexto LOCAL ou DIGITAL?",
+      "Oi! Gostaria de obter informações no contexto LOCAL ou DIGITAL?",
+      "Oi! Deseja verificar informações no contexto LOCAL ou DIGITAL?",
+      "Olá, tudo bem? Gostaria de obter informações no contexto LOCAL ou DIGITAL?"
+    ]
+  },
+  {
+    "sessionId": " 548",
+    "queryText": [
+      "olá",
+      "olá"
+    ],
+    "responseText": [
+      "Olá! Gostaria de obter informações no contexto LOCAL ou DIGITAL?",
+      "Olá! Deseja verificar informações no contexto LOCAL ou DIGITAL?"
+    ]
+  },
+  {
+    "sessionId": "543",
+    "interactions": [
+      {
+        "queryText": "local",
+        "responseText": "Quais dados você precisa consultar do LOCAL? Deseja verificar informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL?"
+      },
+      {
+        "queryText": "local",
+        "responseText": "Quais dados você precisa consultar do LOCAL? Deseja verificar informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL?"
+      },
+      {
+        "queryText": "local",
+        "responseText": "Quais dados você precisa consultar do LOCAL? Deseja verificar informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL?"
+      },
+      {
+        "queryText": "local",
+        "responseText": "Quais dados você precisa consultar do LOCAL? Gostaria de obter informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL?"
+      },
+      {
+        "queryText": "local",
+        "responseText": "Posso ajudar com mais alguma coisa? Gostaria de obter informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL?"
+      },
+      {
+        "queryText": "local",
+        "responseText": "Posso ajudar com mais alguma coisa? Deseja verificar informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL?"
+      },
+      {
+        "queryText": "local",
+        "responseText": "Posso ajudar com mais alguma coisa?\nDeseja verificar informações no contexto LOCAL ou DIGITAL?\nOk, quais dados você precisa consultar do DIGITAL? Deseja verificar informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL?"
+      },
+      {
+        "queryText": "local",
+        "responseText": "Quais dados você precisa consultar do LOCAL?\nDeseja verificar informações no contexto LOCAL ou DIGITAL?\nOk, quais dados você precisa consultar do DIGITAL? Deseja verificar informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL?"
+      },
+      {
+        "queryText": "local",
+        "responseText": "Quais dados você precisa consultar do LOCAL?\nDeseja verificar informações no contexto LOCAL ou DIGITAL?\nOk, quais dados você precisa consultar do DIGITAL? Deseja verificar informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL?"
+      },
+      {
+        "queryText": "local",
+        "responseText": "Quais dados você precisa consultar do LOCAL? Deseja verificar informações no contexto LOCAL ou DIGITAL? Gostaria de obter informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL?"
+      },
+      {
+        "queryText": "local",
+        "responseText": "Quais dados você precisa consultar do LOCAL? Deseja verificar informações no contexto LOCAL ou DIGITAL? Deseja verificar informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL?"
+      },
+      {
+        "queryText": "local",
+        "responseText": "Quais dados você precisa consultar do LOCAL? Deseja verificar informações no contexto LOCAL ou DIGITAL? Gostaria de obter informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL?"
+      },
+      {
+        "queryText": "local",
+        "responseText": "Quais dados você precisa consultar do LOCAL? Deseja verificar informações no contexto LOCAL ou DIGITAL? Gostaria de obter informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL?"
+      },
+      {
+        "queryText": "local",
+        "responseText": "Quais dados você precisa consultar do LOCAL? Deseja verificar informações no contexto LOCAL ou DIGITAL? Gostaria de obter informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL? Deseja verificar informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL?"
+      },
+      {
+        "queryText": "local",
+        "responseText": "Quais dados você precisa consultar do LOCAL? Deseja verificar informações no contexto LOCAL ou DIGITAL? Gostaria de obter informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL? Deseja verificar informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL? Deseja verificar informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL?"
+      },
+      {
+        "queryText": "local",
+        "responseText": "Quais dados você precisa consultar do LOCAL? Deseja verificar informações no contexto LOCAL ou DIGITAL? Gostaria de obter informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL? Deseja verificar informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL? Gostaria de obter informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL?"
+      },
+      {
+        "queryText": "local",
+        "responseText": "Quais dados você precisa consultar do LOCAL? Gostaria de obter informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL?"
+      },
+      {
+        "queryText": "local",
+        "responseText": "Quais dados você precisa consultar do LOCAL? Gostaria de obter informações no contexto LOCAL ou DIGITAL? Deseja verificar informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL?"
+      },
+      {
+        "queryText": "local",
+        "responseText": "Quais dados você precisa consultar do LOCAL? Gostaria de obter informações no contexto LOCAL ou DIGITAL? Gostaria de obter informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL?"
+      },
+      {
+        "queryText": "local",
+        "responseText": "Quais dados você precisa consultar do LOCAL? Gostaria de obter informações no contexto LOCAL ou DIGITAL? Gostaria de obter informações no contexto LOCAL ou DIGITAL? Ok, quais dados você precisa consultar do DIGITAL?"
+      }
+    ]
+  },
+  {
+    "sessionId": "32",
+    "interactions": [
+      {
+        "queryText": "local",
+        "responseText": "Sinto muito, não entendi. Você pode reformular a pergunta? Gostaria de obter informações no contexto LOCAL ou DIGITAL?"
+      },
+      {
+        "queryText": "local",
+        "responseText": "Ok, o que procura nos dados locais?"
+      }
+    ]
+  }
+]
